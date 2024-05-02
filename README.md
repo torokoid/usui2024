@@ -99,10 +99,10 @@
 				<td>市民水泳大会</td><td>6月30日（日）<br><a href="https://usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
-				<td>水泳教室Ⅰ</td><td>未定</td><td>駅東公園プール</td>
+				<td>ジュニア水泳教室Ⅰ</td><td>未定</td><td>駅東公園プール</td>
 			</tr>
 			<tr>
-				<td>水泳教室Ⅱ</td><td>未定</td><td>陽南プール</td>
+				<td>ジュニア水泳教室Ⅱ</td><td>未定</td><td>陽南プール</td>
 			</tr>
 			<tr>
 				<td>小学生大会ﾌﾟﾛｸﾞﾗﾑ編成会議</td><td>8月2日（金）</td><td>ﾋﾞｯｸﾂﾘｰｽﾎﾟｰﾂｸﾗﾌﾞ本店</td>
